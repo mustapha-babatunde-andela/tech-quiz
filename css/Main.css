@@ -3,6 +3,11 @@ body {
   margin: 10px;
 }
 
+p a {
+  padding: 7px;
+  font-size: 18;
+}
+
 #time-up-div {
   margin-top: 20px;
 }
