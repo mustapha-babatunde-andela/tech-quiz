@@ -1,0 +1,89 @@
+
+.right-margined {
+  margin-right: 20px;
+}
+
+#quiz-details {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.jsMainQuiz h2 {
+  font-weight: bold;
+}
+
+jsQuestions {
+  text-align: center;
+}
+
+ol li {
+  list-style-type: upper-alpha;
+  padding: 10px;
+  border: 1px solid #CCCCCC;
+  margin: 5px auto 5px auto;
+  width: 75%;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+ol li:hover {
+  background: #F0F0F0;
+  font-weight: bold;
+}
+
+.correct-answer {
+  list-style-type: upper-alpha;
+  padding: 10px;
+  border: 1px solid #CCCCCC;
+  margin: 5px auto 5px auto;
+  width: 75%;
+  text-align: center;
+  border-radius: 5px;
+  cursor: default;
+  background: #00FA9A;
+}
+
+.wrong-answer {
+  list-style-type: upper-alpha;
+  padding: 10px;
+  border: 1px solid #CCCCCC;
+  margin: 5px auto 5px auto;
+  width: 75%;
+  text-align: center;
+  border-radius: 5px;
+  cursor: default;
+  background: #FF0000;  
+}
+
+.wrong-answer:hover {
+  background: #FF0000;
+  font-weight: normal;  
+}
+
+/*#FFCB35*/
+.correct-answer:hover {
+  font-weight: normal;
+  background: #00FA9A;
+}
+
+.answered {
+  list-style-type: upper-alpha;
+  padding: 10px;
+  border: 1px solid #CCCCCC;
+  margin: 5px auto 5px auto;
+  width: 75%;
+  text-align: center;
+  border-radius: 5px;
+  cursor: default;
+}
+
+.answered:hover {
+  font-weight: normal;
+  background: #FFFFFF;
+}
+
+
+
+

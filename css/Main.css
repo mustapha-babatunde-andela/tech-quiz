@@ -1,0 +1,124 @@
+
+body {
+  margin: 10px;
+}
+
+#time-up-div {
+  margin-top: 20px;
+}
+
+#time-up {
+  color: red;
+  padding: 10px;
+  font-size: 25px;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+#countdown {
+  background: ;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 75px;
+  text-align: center;
+  width: 70px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  border-radius: 5px;
+  cursor: default;
+}
+
+.nav-spec {
+  text-align: center;
+}
+
+.username-input {
+  font-size: 15px;
+  padding: 8px;
+}
+
+.name {
+  margin-top: 30px;
+  width: 300px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#timer {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.side-content { 
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #CCCCCC;
+  border-radius: 5px;
+  float: right;
+  text-align: center;
+  height: 300px;
+}
+
+.quiz-holder {
+  border-top: 1px solid #CCCCCC;
+  border-left: 1px solid #CCCCCC;
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 18px;
+}
+
+.name-input {
+  width: 50%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.quiz-opt {
+  margin: 20px 0px 15px 0px;
+}
+
+.h3-class {
+  font-weight: bold;
+}
+
+.left-nav-element {
+  text-align: center;
+  float: left;
+  margin-left: 30px;
+  padding: 15px;
+  font-family: 'Bree Serif', serif;
+}
+
+.right-nav-element {
+  float: right;
+  margin-right: 30px;
+}
+
+.sub-header {
+  font-size: 18px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'EB Garamond', serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+<div class="jsMainQuiz">
+  <h2>Software Development Questions</h2>
+  <div id="jsQuestions" class="jsQuestions">
+    <h3 class="bold">Sample Question:</h3>
+    <h4 class="bold">In JavaScript, DOM stands for</h4>
+    <ol>
+      <li id="option-A" onclick="checkSampleAnswer(this)">Document Object Model</li>
+      <li id="option-B" onclick="checkSampleAnswer(this)">Document Oriented Model</li>
+      <li id="option-C" onclick="checkSampleAnswer(this)">Document Objective Model</li>
+      <li id="option-D" onclick="checkSampleAnswer(this)">Document Obtrusive Model</li>
+    </ol>
+  </div>
+  <div id="jsButtons" class="jsButtons">
+    <span id="quiz-details">This is a sample question. It does not count...</span><br><br>
+    <div id="startNextDiv">
+      <button id="startButton" onclick="getQuestion()" type="button" class="btn btn-lg btn-default bold" disabled>Start</button>
+      <button id="nextButton" onclick="getQuestion()" type="button" class="btn btn-lg btn-default bold" disabled>Next</button>
+    </div>
+  </div>
+</div>
