@@ -20,6 +20,3 @@ View the gh-page  [showcase demo](https://toystars.github.io/tech-quiz) to see t
 
 NB: 'Each question is timed...'
 
-
-## Browser Support
-Works in all modern browsers (Firefox, Chrome, Safari, IE) and gracefully degrades all to Internet Explorer 8.
