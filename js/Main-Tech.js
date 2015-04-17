@@ -20,19 +20,6 @@ function timer(time,update,complete) {
     },100); // the smaller this number, the more accurate the timer will be
 }
 
-// function to run when the start over button is clicked
-function startOver() {
-  answered = false;
-  questions = [];
-  count = 0;
-  questionsGotWrong = [];
-  score = 0;
-  totalScore = 0;
-  document.getElementById('countdown').innerHTML = '0';
-  questions = getQuestions();
-  loadJSQuiz();
-}
-
 function reloadPage() {
   location.reload();
 }
