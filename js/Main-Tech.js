@@ -217,6 +217,7 @@ function loadJSQuiz() {
   }
   xmlhttp.open("GET","jsQuiz.html",true);
   xmlhttp.send();
+  document.getElementById("quiz-info").innerHTML = 'Waiting for response...';
 }
 
 // function that gets called once the page is done loading
