@@ -9,7 +9,7 @@ Author: [Mustapha Babatunde Oluwaleke](https://twitter.com/iAmToystars)
 
 ## Showcase Demo
 
-View the gh-page  [showcase demo](https://toystars.github.io/tech-quiz) to see the application in action. The showcase provides the full functionality of the project.
+View the gh-page  [showcase demo](https://andela-bmustapha.github.io/tech-quiz) to see the application in action. The showcase provides the full functionality of the project.
 
 ## How to use
 1 Click on the 'Start Challenge Button.
